@@ -12,14 +12,14 @@ body {
 }
 
 .cloud {
-  width: 300px;
+  width: 20%;
   position: relative;
   top: 50px;
   right: 50px;
 }
 
 .cloud2 {
-  width: 300px;
+  width: 20%;
   position: relative;
   bottom: 300px;
   left: 100px;
