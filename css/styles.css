@@ -1,0 +1,149 @@
+.topcontainer {
+  background-color: #E3FDFD;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 340px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: cursive;
+}
+
+.cloud {
+  width: 300px;
+  position: relative;
+  top: 50px;
+  right: 50px;
+}
+
+.cloud2 {
+  width: 300px;
+  position: relative;
+  bottom: 300px;
+  left: 100px;
+}
+
+.title {
+  position: relative;
+  top: 150px;
+  font-size: 50px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.p {
+  position: relative;
+  top: 120px;
+}
+
+.mountain {
+  position: relative;
+  top: 345px;
+  left: 80px;
+}
+
+.sub-title {
+  font-family: 'Dancing Script', cursive;
+  position: relative;
+  top: 130px;
+}
+
+.profilepic {
+  width: 300px;
+}
+
+.hobbiesimg {
+  width: 300px;
+}
+
+.playing-games {
+  margin-top: 50px;
+}
+
+.body-contact-me {
+  padding-top: 300px;
+  background-color: #A6E3E9;
+}
+
+.label-your-message {
+  margin-right: 157px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #444444;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+
+
+.Hobbies-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.Hobbies-row2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.contoller-pic {
+  width: 15%;
+  float: right;
+  position: relative;
+  bottom: 80px;
+}
+
+.musical-notes-pic {
+  width: 15%;
+  float: left;
+  position: relative;
+  bottom: 10px;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  text-align: center;
+  background-color:#A6E3E9;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  }
+
+  .btn {
+  background: #A6E3E9;
+  background-image: -webkit-linear-gradient(top, #A6E3E9, #A6E3E9);
+  background-image: -moz-linear-gradient(top, #A6E3E9, #A6E3E9);
+  background-image: -ms-linear-gradient(top, #A6E3E9, #A6E3E9);
+  background-image: -o-linear-gradient(top, #A6E3E9, #A6E3E9);
+  background-image: linear-gradient(to bottom, #A6E3E9, #A6E3E9);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Courier New;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #71C9CE;
+  background-image: -webkit-linear-gradient(top, #71C9CE, #71C9CE);
+  background-image: -moz-linear-gradient(top, #71C9CE, #71C9CE);
+  background-image: -ms-linear-gradient(top, #71C9CE, #71C9CE);
+  background-image: -o-linear-gradient(top, #71C9CE, #71C9CE);
+  background-image: linear-gradient(to bottom, #71C9CE, #71C9CE);
+  text-decoration: none;
+}
+
+  .insta-tag {
+    color: #064663;
+  }
+  .copy-right {
+    color: #064663;
+  }
